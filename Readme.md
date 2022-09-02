@@ -1,5 +1,5 @@
 # Stairs circuit
-[![relay-bb.png](https://i.postimg.cc/brPR5sfP/relay-bb.png)](https://postimg.cc/k6j86M5Y)
+[![Stair.png](https://i.postimg.cc/Px0T8MjR/Stair.png)](https://postimg.cc/vg7pJfDr)
 
 Circuito de escalera para controlar un relé:
 
@@ -24,5 +24,3 @@ Circuito de escalera para controlar un relé:
 
 ### Funcionamiento
 Usando la matriz ```state``` se leen los dos botones, cuando son presionados se cambia el valor del vector ```out```, si los valores de ```out``` son iguales el **Relay** se pone en alto.
-
-[![relay-esquem-tico.png](https://i.postimg.cc/sX7cK58K/relay-esquem-tico.png)](https://postimg.cc/dkQrVZJT)
